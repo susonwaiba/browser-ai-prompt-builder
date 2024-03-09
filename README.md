@@ -1,9 +1,16 @@
 # Browser AI Prompt Builder
 
 This is browser extension that helps you to build AI prompts.
+
 Additional tooling to help you build AI prompts with variables and execute them with values.
 
 Status: **In Development**
+
+
+## Support for
+
+- https://chat.openai.com/
+- https://gemini.google.com/
 
 
 ## Quick start
