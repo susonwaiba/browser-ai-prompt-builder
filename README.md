@@ -10,7 +10,6 @@ Status: **In Development**
 ## Support for
 
 - https://chat.openai.com/
-- https://gemini.google.com/
 
 
 ## Quick start
